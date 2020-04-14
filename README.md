@@ -1,10 +1,12 @@
 # Twitter_Hashtag
 
 
-To keyword serach for tweets and save tweet_ids
+Extract tweet with certain key word and different column
 
-To hydrate tweets
+Get the text column
 
-To extract hashtags
+Extract hashtags from the text column
+
+Save into a new file 
 
 To make word clouds
