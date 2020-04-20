@@ -3,4 +3,5 @@
 2. Creates a bar chart based on the languages of the collected tweets
 3. Creates a wordcloud of the hashtags used in the tweets
 4. Creates a bar chart on the top users who tweeted
+5. Return botometer score of those top users
 #### WIP
